@@ -1,0 +1,17 @@
+Objects for:
+
+Tests
+Quizzes
+Students
+Mentors
+Teachers
+Professors
+Lessons
+Curriculums
+Paths
+Grades
+Projects
+Majors
+Minors
+Sports
+Tribes
